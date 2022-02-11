@@ -1,4 +1,4 @@
-from config import Connect
+from .config import Connect
 import math
 import time
 

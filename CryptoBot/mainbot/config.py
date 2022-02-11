@@ -1,5 +1,5 @@
 from binance.client import Client
-import config
+
 
 class Connect:
     def make_connection(self):
